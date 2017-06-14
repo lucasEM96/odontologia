@@ -1,5 +1,5 @@
 /*
-*Copyright 2017 Melisa Lucas Elvira Martín.
+*Copyright 2017 Lucas Elvira Martín.
 *
 *Se concede permiso para copiar, distribuir y/o modificar este documento ba-
 *jo los terminos de la Licencia de Documentacion Libre de GNU, Version 1.3
